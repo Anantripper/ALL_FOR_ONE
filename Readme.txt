@@ -1,10 +1,10 @@
-# 🎯 UniRec – Unified Recommendation System
+# 🎯 ALL FOR ONE - AFO
 
 ## 🚀 Overview
 
-UniRec is a cross-domain recommendation system that provides personalized suggestions across **movies, books, and restaurants** in a single platform.
+AFO is a cross-domain recommendation system that provides personalized suggestions across **movies, books, and restaurants** in a single platform.
 
-Unlike traditional recommenders limited to one domain, UniRec leverages **shared user preferences** to generate intelligent cross-domain recommendations.
+Unlike traditional recommenders limited to one domain, AFO leverages **shared user preferences** to generate intelligent cross-domain recommendations.
 
 ---
 
